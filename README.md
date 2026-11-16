@@ -1,4 +1,4 @@
-# all-se-labs
+# All-SE-Labs
 
 - [Lab 1 — Requirements Engineering](./Lab1)
 - [Lab 2 — Agile Sprint Planning](./Lab-02)
